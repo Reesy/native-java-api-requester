@@ -1,2 +1,8 @@
-# native-java-api-requester
-Small Java application that allows you to make API requests. 
+#### Creating a JAR file using ANT
+	ant compile
+    any jar 
+    ant run
+
+
+#### Chaining everything in one
+    ant compile jar run
